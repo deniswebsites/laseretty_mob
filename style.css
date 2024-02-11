@@ -884,6 +884,7 @@ li.active .dr_btn {
     height: 540px;
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
     border-radius: 30px;
+    background-size: cover;
 }
 
 .promo_slide_header {
