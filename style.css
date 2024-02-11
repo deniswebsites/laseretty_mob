@@ -2428,6 +2428,10 @@ li.active .dr_btn {
 }
 
 .prices_item_title img {
+    width: auto;
+    height: auto;
+    min-height: 100%;
+    min-width: 100%;
     font-weight: 700;
     font-size: 64px;
     line-height: 35px;
