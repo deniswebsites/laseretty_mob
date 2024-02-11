@@ -887,6 +887,10 @@ li.active .dr_btn {
     background-size: cover;
 }
 
+.promo_slide > div {
+    width: 100%;
+}
+
 .promo_slide_header {
     display: flex;
     justify-content: flex-end;
